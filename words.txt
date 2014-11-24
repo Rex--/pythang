@@ -1,0 +1,7 @@
+hangman
+words
+long
+list
+one
+per
+line
